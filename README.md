@@ -1,4 +1,4 @@
-## Terminal app
+## Terminal app TODO
 
 Basic terminal app to manage to-do tasks. 
 
